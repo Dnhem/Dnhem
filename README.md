@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dana Nhem</h1>
-<h3 align="center">A full-stack developer from The San Francisco Bay Area 🌉</h3>
+<h3 align="center">A Full-Stack developer from The San Francisco Bay Area 🌉</h3>
 
 - 🌱 I’m currently learning **TypeScript, GraphQL**
 
