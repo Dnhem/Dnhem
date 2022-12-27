@@ -5,7 +5,7 @@
 
 - 📫 Reach me **danadevelops@gmail.com**
 
-- ⚡ Fun fact **If I'm not reading 📖 about data structures, I'm lifting iron structures 🏋🏻‍♀️**
+- ⚡ Fun fact: **If I'm not reading 📖 about data structures, I'm lifting iron structures 🏋🏻‍♀️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
