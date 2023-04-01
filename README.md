@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact: **If I'm not reading 📖 about data structures, I'm lifting iron structures 🏋🏻‍♀️**
 
+<h3 align="left"><a href="https://danadevelops.netlify.app/" target="blank">💼 Check Out My Portfolio</a></h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dana-nhem-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dana-nhem-developer/" height="30" width="40" /></a>
