@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, GraphQL**
 
-- 📫 Reach me **danadevelops@gmail.com**
+- 📫 Reach me at **danadevelops@gmail.com**
 
 - ⚡ Fun fact: **If I'm not reading 📖 about data structures, I'm lifting iron structures 🏋🏻‍♀️**
 
