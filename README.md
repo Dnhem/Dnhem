@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dana Nhem</h1>
 <h3 align="center">A Full-Stack Engineer from The San Francisco Bay Area 🌉</h3>
 
-- 🌱 I’m currently learning **Solidity & Foundry**
+- 🌱 I’m currently learning **Java & Spring**
 
 - 📫 Reach me at **danadevelops@gmail.com**
 
