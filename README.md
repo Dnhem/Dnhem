@@ -5,8 +5,6 @@
 
 - 📫 Reach me at **danadevelops@gmail.com**
 
-- ⚡ Fun fact: **If I'm not reading 📖 about data structures, I'm lifting iron structures 🏋🏻‍♀️**
-
 <h2 align="left"><a href="https://danadevelops.netlify.app/" target="blank">💼 Check Out My Portfolio</a></h2>
 
 <h3 align="left">Connect with me:</h3>
