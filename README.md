@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dana Nhem</h1>
-<h3 align="center">A Full-Stack Engineer from The San Francisco Bay Area 🌉</h3>
 
-- 🌱 I’m currently learning Observability Engineering 
-
-- 📫 Reach me at **danadevelops@gmail.com**
-
-<h2 align="left"><a href="https://danadevelops.netlify.app/" target="blank">💼 Check Out My Portfolio</a></h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
